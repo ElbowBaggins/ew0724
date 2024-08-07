@@ -20,4 +20,4 @@ Written and tested on macOS, procedures for other platforms should be similar.
 Alternatively, open the project in IntelliJ and use the Gradle tool window to point and click your way to victory.
 
 If you are trying this at the command line and `java -version` does NOT indicate Java 22, this probably won't work.
-rAmend your path such that `java` and friends are the JDK22 versions.
+Amend your path such that `java` and friends are the JDK22 versions.
